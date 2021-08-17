@@ -385,7 +385,7 @@ section .title::after {
   font-weight: 500;
   margin: 10px 0 7px 0;
 }
-/* .project .carousel .card img {
+.project .carousel .card img {
   height: 200px;
   width: 200px;
   object-fit: cover;
@@ -395,7 +395,8 @@ section .title::after {
 }
 .project .carousel .card:hover img {
   border-color: #fff;
-} */
+}
+*/
 /* .owl-dots {
   text-align: center;
   margin-top: 20px;
@@ -414,7 +415,7 @@ section .title::after {
 .owl-dot.active,
 .owl-dot:hover {
   background: crimson !important;
-} */
+}
 
 /* Contact Section Styling */
 .contact .title::after {
